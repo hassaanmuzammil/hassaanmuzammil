@@ -2,7 +2,7 @@
 
 I'm a Master's student in **Computer Engineering (AI Specialization)** at San José State University, with a background in Electrical Engineering.
 
-I have **4+ years of professional experience** spanning applied engineering and research-oriented roles across **Machine Learning, AI Systems, Backend Development, DevOps, and Data Engineering**. Lately, I've been diving deeper into research projects involving **Deep Learning, Reinforcement Learning, Computer Vision, and Intelligent Autonomous Systems**.
+I have **4+ years of professional experience** spanning applied engineering and research-oriented roles across **Machine Learning, AI Systems, Backend Development, DevOps, and Data Engineering**. Lately, I've been diving deeper into research projects involving **Generative AI, Reinforcement Learning, Autonomous Systems**.
 
 ### 🔬 Previous Work
 
